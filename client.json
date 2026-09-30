@@ -1,0 +1,52 @@
+{
+  "CLIENT": "Savvy to Scams",
+  "DOMAIN": "savvytoscams.com.au",
+  "SCAN_DATE": "30 Sep 2026",
+  "SCORE": 57,
+  "TARGET": 60,
+  "VERDICT": "Solid roots,",
+  "VERDICT_EM": "a few things to tidy.",
+  "HERO_SUB": "Anne, your heart for older learners shines through everything you do. The kindness, the patience, the clear pricing. What's left is mostly small website tidy-ups that help people trust you at first glance.",
+  "NOTEBOOK_URL": "https://notebooklm.google.com/notebook/94288cf5-9af2-40ba-8557-866ed92c1dc3",
+
+  "BREAKDOWN_INTRO": "We looked at four things: how safe your business is, how clearly people can see who you are, how easily they can find you, and what it's like to work with you. Weighted for a solo community educator.",
+  "BAND_TEXT": "At 57 you're finding your feet, right at the edge of good bones. Nothing needs rebuilding. The biggest lifts are quick website tidy-ups you can do in an afternoon.",
+  "CALIBRATION": "Why these weights: your clients are mostly people aged 55+ who need to trust you before they reach out, so Data & Defence and Identity & IP count for a little more (30% each) than Visibility and Experience (20% each).",
+
+  "D_SCORE": 52, "D_WEIGHT": 30, "D_STATUS": "Worth tending",
+  "D_NOTE": "A few leftover website template bits (a 'Coming Soon' banner, an empty block, a newsletter form that isn't connected) can look like warning signs to the very people you teach. A short 'what my sessions cover' note would also protect you.",
+
+  "I_SCORE": 64, "I_WEIGHT": 30, "I_STATUS": "Solid",
+  "I_NOTE": "Twenty-plus years in adult education and warm, genuine testimonials. Adding your ABN to the footer and joining the Be Connected network would let anyone double-check you in seconds.",
+
+  "V_SCORE": 48, "V_WEIGHT": 20, "V_STATUS": "Room to grow",
+  "V_NOTE": "Your Eventbrite workshops are working well. You're not on Google Maps yet, and 'savvy to scams' is a common phrase, so a free Google Business Profile would help locals find you. It keeps your home address private.",
+
+  "E_SCORE": 62, "E_WEIGHT": 20, "E_STATUS": "Solid",
+  "E_NOTE": "Your one-issue-per-session approach and the free companion policy are thoughtful. The one gap is that every booking goes through a web form, and a phone number would help anxious callers.",
+
+  "S1_TITLE": "Bring a loved one, free",
+  "S1_TEXT": "Letting clients bring a family member or carer at no cost removes embarrassment and helps adult children support their parents. It's a real point of difference, so keep it front and centre.",
+  "S2_TITLE": "One issue at a time",
+  "S2_TEXT": "Keeping each session to one scam concern avoids overload and helps new habits stick. That's good teaching, and your clients notice.",
+  "S3_TITLE": "Clear, honest pricing",
+  "S3_TEXT": "$0 intro call, $140 session, $375 three-part series, all listed up front. No sales pressure, which matters a lot to budget-conscious seniors.",
+
+  "WEEK_TEXT": "Hide the leftover template blocks, connect the newsletter form, add your ABN to the footer, and put a phone number at the top of the site.",
+  "WEEK_TIME": "About 3 hours in total",
+  "MONTH_TEXT": "Add a short 'what my sessions cover' note, set up a free Google Business Profile for Perth (address hidden), and let people book the free call straight from a calendar.",
+  "MONTH_TIME": "About 7 hours in total",
+  "READY_TEXT": "Join the federal Be Connected network as a community partner, and turn your workshop plan into a simple one-page guide for councils and community groups.",
+  "READY_TIME": "When the time's right",
+
+  "A1_TITLE": "Tidy the website leftovers",
+  "A1_TEXT": "In Squarespace, hide the empty blocks and the 'Coming Soon' banner, and connect the newsletter form to a mailing list. Your site will look as careful as you are.",
+  "A1_ETA": "This week · 1–2 hours",
+  "A2_TITLE": "Add your ABN to the footer",
+  "A2_TEXT": "Type 'Savvy to Scams (ABN 47 152 412 557) · Perth, WA' into your footer settings. You teach people to check ABNs, so this lets them check yours.",
+  "A2_ETA": "This week · 30 minutes",
+  "A3_TITLE": "Put a phone number up top",
+  "A3_TEXT": "Someone worried about a dodgy text often just wants to talk. A 'Prefer to talk? Call Anne' line in the header opens the door for them.",
+  "A3_ETA": "This week · about 1 hour",
+  "GENTLE_NOTE": "Small tidy-ups for a business whose heart is already in the right place."
+}
